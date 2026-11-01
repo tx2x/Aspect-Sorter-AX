@@ -31,7 +31,7 @@ Drop the script into a folder, run it, and you're done. No menus, no prompts, no
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/aspect-sorter.git
+git clone https://github.com/tx2x/aspect-sorter-ax.git
 cd aspect-sorter
 pip install -r requirements.txt
 ```
